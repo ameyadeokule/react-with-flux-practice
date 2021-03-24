@@ -1,3 +1,5 @@
+This project is made to practice flux along with react as a state management tool. This project is one of the step in mastering redux in react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
